@@ -22,7 +22,8 @@ Computer vision is widely used in various domains, including:
 |------|---------------|----------------|  
 | 1️⃣ | **Basic** | Fundamental computer vision techniques. It will be updated in future. |  
 | 2️⃣ | **Human Emotion Detection** | Classifies facial expressions into different emotions using deep learning (CNNs, FER2013 dataset). |  
-| 3️⃣ | **Pretrained Models** | Collection of pretrained models for various tasks like face detection and emotion recognition. Other models will be added in future |  
+| 3️⃣ | **Pretrained Models** | Collection of pretrained models for various tasks like face detection and emotion recognition. Other models will be added in future | 
+| 4️⃣ | **Understanding Balck Box** | Visualizing the intermediate layers of a CNN (feature maps) |
 
 🔹 This repository will be continuously updated with **more advanced computer vision projects** in the future.  
 
